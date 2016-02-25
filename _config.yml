@@ -1,0 +1,28 @@
+name: Testerness
+favicon: null
+layout_spectrum: 0.37352025136351585
+typography_spectrum: 0.3455654380377382
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3491209112107754
+  lightness: 0.30727073294110596
+  saturation: 0.7732592625543475
+  rhythmicContrast: 0.7632204361725599
+purpose: []
