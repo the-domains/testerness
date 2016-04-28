@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Testerness]]></title>
         <description><![CDATA[Testerness]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testerness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Feb 2016 17:27:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 02:54:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testerness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/610d247d-6459-4b5f-be94-d1ab2f4ba532.jpg">]]></description>
+            <link>https://thegrid.ai/testerness/on-a-hike-over-queenstown-new-zealand-this-beautiful-scene/index.html</link>
+            <guid isPermaLink="false">71732ed6-1ae2-413e-8240-b19d9893f488</guid>
+            <pubDate>Thu, 28 Apr 2016 02:53:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a post. This post is not cool.</p>]]></description>
-            <link>undefinedaad1fd10-832f-4fc8-b48e-b3b034f39af3/index.html</link>
+            <link>https://thegrid.ai/testerness/aad1fd10-832f-4fc8-b48e-b3b034f39af3/index.html</link>
             <guid isPermaLink="false">aad1fd10-832f-4fc8-b48e-b3b034f39af3</guid>
             <pubDate>Thu, 25 Feb 2016 17:27:39 GMT</pubDate>
         </item>
